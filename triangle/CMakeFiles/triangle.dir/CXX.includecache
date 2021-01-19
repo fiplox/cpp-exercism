@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/dev/exercism/cpp/triangle/triangle.cpp
+triangle.h
+/home/user/dev/exercism/cpp/triangle/triangle.h
+stdexcept
+-
+
+/home/user/dev/exercism/cpp/triangle/triangle.h
+cmath
+-
+

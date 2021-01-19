@@ -1,0 +1,4 @@
+/home/user/F/git/exercism/cpp/sum-of-multiples/CMakeFiles/rebuild_cache.dir
+/home/user/F/git/exercism/cpp/sum-of-multiples/CMakeFiles/edit_cache.dir
+/home/user/F/git/exercism/cpp/sum-of-multiples/CMakeFiles/test_sum-of-multiples.dir
+/home/user/F/git/exercism/cpp/sum-of-multiples/CMakeFiles/sum-of-multiples.dir

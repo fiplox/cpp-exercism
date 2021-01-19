@@ -1,0 +1,4 @@
+/home/user/F/git/exercism/cpp/gigasecond/CMakeFiles/rebuild_cache.dir
+/home/user/F/git/exercism/cpp/gigasecond/CMakeFiles/edit_cache.dir
+/home/user/F/git/exercism/cpp/gigasecond/CMakeFiles/test_gigasecond.dir
+/home/user/F/git/exercism/cpp/gigasecond/CMakeFiles/gigasecond.dir

@@ -1,0 +1,4 @@
+/home/user/F/git/exercism/cpp/space-age/CMakeFiles/rebuild_cache.dir
+/home/user/F/git/exercism/cpp/space-age/CMakeFiles/edit_cache.dir
+/home/user/F/git/exercism/cpp/space-age/CMakeFiles/test_space-age.dir
+/home/user/F/git/exercism/cpp/space-age/CMakeFiles/space-age.dir
