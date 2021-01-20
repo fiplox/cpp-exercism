@@ -4,7 +4,7 @@
 #include <unordered_set>
 
 namespace pangram {
-	bool is_pangram(const std::string s) 
+	bool is_pangram(std::string const & s) 
 	{
 		std::unordered_set<char> char_set;
 

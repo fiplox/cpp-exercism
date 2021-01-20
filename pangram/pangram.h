@@ -3,7 +3,7 @@
 #include <string>
 
 namespace pangram {
-	bool is_pangram(std::string s);
+	bool is_pangram(std::string const & s);
 }  // namespace pangram
 
 #endif // PANGRAM_H
