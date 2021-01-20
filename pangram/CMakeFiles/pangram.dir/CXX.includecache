@@ -11,9 +11,7 @@ pangram.h
 /home/user/dev/exercism/cpp/pangram/pangram.h
 map
 -
-algorithm
--
-ctype.h
+cctype
 -
 unordered_set
 -
